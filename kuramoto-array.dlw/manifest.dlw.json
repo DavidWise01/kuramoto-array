@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-KURAMOTO_ARRAY",
+  "name": "KURAMOTO ARRAY · KUR",
+  "universe": "HEÚREMA",
+  "moniker": "⟦KURAMOTO ARRAY · KUR:kuramoto-array:c72250⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "c72250c1d9f5816d30f10c55e2935fd6357d7c08542c2e435b7d800984390d9d",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
